@@ -1,0 +1,175 @@
+{
+  "diseases": [
+    {
+      "name": "common cold",
+      "precautions": [
+        "Wash hands frequently",
+        "Avoid close contact with sick individuals",
+        "Stay hydrated",
+        "Rest adequately"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Children's Tylenol (acetaminophen)",
+          "usage": "Give 10-15 mg/kg every 4-6 hours as needed. Do not exceed 5 doses in 24 hours."
+        },
+        "adult": {
+          "medication": "Paracetamol or Ibuprofen",
+          "usage": "Take 500-1000 mg of paracetamol every 4-6 hours or 200-400 mg of ibuprofen every 6-8 hours as needed."
+        }
+      }
+    },
+    {
+      "name": "flu",
+      "precautions": [
+        "Get vaccinated annually",
+        "Cover mouth and nose when coughing or sneezing",
+        "Avoid crowded places during flu season",
+        "Maintain a healthy diet"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Oseltamivir (Tamiflu)",
+          "usage": "Dose is weight-based. Typically, 30-75 mg twice daily for 5 days. Consult a pediatrician."
+        },
+        "adult": {
+          "medication": "Oseltamivir (Tamiflu)",
+          "usage": "Take 75 mg twice daily for 5 days."
+        }
+      }
+    },
+    {
+      "name": "chickenpox",
+      "precautions": [
+        "Avoid scratching lesions",
+        "Keep fingernails short and clean",
+        "Stay isolated until all blisters have crusted over",
+        "Wear loose, comfortable clothing"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Calamine lotion",
+          "usage": "Apply to affected areas 3-4 times daily to soothe itching."
+        },
+        "adult": {
+          "medication": "Acyclovir",
+          "usage": "Take 800 mg 5 times daily for 7 days. Start within 24 hours of rash onset."
+        }
+      }
+    },
+    {
+      "name": "asthma",
+      "precautions": [
+        "Avoid allergens and triggers",
+        "Use a humidifier if the air is dry",
+        "Keep inhalers accessible at all times",
+        "Engage in regular, moderate exercise"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Albuterol inhaler",
+          "usage": "Administer 1-2 puffs every 4-6 hours as needed. Consult a doctor for chronic use."
+        },
+        "adult": {
+          "medication": "Albuterol inhaler",
+          "usage": "Use 2 puffs every 4-6 hours as needed. For long-term control, consult a doctor about corticosteroids."
+        }
+      }
+    },
+    {
+      "name": "diabetes",
+      "precautions": [
+        "Monitor blood sugar levels regularly",
+        "Maintain a balanced diet",
+        "Exercise regularly",
+        "Avoid excessive sugar intake"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Insulin therapy",
+          "usage": "Administer dosage as prescribed by a pediatric endocrinologist."
+        },
+        "adult": {
+          "medication": "Metformin",
+          "usage": "Take 500-1000 mg twice daily with meals. Adjust dosage as recommended by a physician."
+        }
+      }
+    },
+    {
+      "name": "hypertension",
+      "precautions": [
+        "Reduce salt intake",
+        "Exercise regularly",
+        "Avoid excessive alcohol consumption",
+        "Monitor blood pressure"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Consult pediatrician for specific antihypertensive medications",
+          "usage": "Dosage and usage depend on child's weight and specific condition."
+        },
+        "adult": {
+          "medication": "Amlodipine",
+          "usage": "Take 5-10 mg once daily. Adjust dosage as prescribed by a physician."
+        }
+      }
+    },
+    {
+      "name": "migraine",
+      "precautions": [
+        "Avoid known triggers like bright lights or loud noises",
+        "Maintain a regular sleep schedule",
+        "Stay hydrated",
+        "Manage stress through relaxation techniques"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Ibuprofen (children's formulation)",
+          "usage": "Administer 10 mg/kg every 6-8 hours as needed. Do not exceed the recommended daily dose."
+        },
+        "adult": {
+          "medication": "Sumatriptan",
+          "usage": "Take 50-100 mg at the onset of migraine. Repeat after 2 hours if needed, not exceeding 200 mg per day."
+        }
+      }
+    },
+    {
+      "name": "anemia",
+      "precautions": [
+        "Eat iron-rich foods like spinach and red meat",
+        "Avoid tea or coffee with meals to enhance iron absorption",
+        "Take vitamin C to aid iron absorption",
+        "Get regular blood tests to monitor levels"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Iron supplements (syrup or chewables)",
+          "usage": "Administer 3-6 mg/kg of elemental iron daily in divided doses."
+        },
+        "adult": {
+          "medication": "Ferrous sulfate",
+          "usage": "Take 325 mg once or twice daily with meals."
+        }
+      }
+    },
+    {
+      "name": "allergic rhinitis",
+      "precautions": [
+        "Avoid allergens like pollen, dust, and pet dander",
+        "Use air purifiers at home",
+        "Keep windows closed during high pollen seasons",
+        "Wash bedding regularly"
+      ],
+      "medications": {
+        "child": {
+          "medication": "Cetirizine (children's formulation)",
+          "usage": "Administer 5 mg once daily for children 6 years or older. For younger children, consult a pediatrician."
+        },
+        "adult": {
+          "medication": "Loratadine",
+          "usage": "Take 10 mg once daily."
+        }
+      }
+    }
+  ]
+}
